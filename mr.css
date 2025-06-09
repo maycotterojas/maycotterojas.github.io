@@ -11,12 +11,11 @@
     font-family: sans-serif, Helvetica;
     width: 90%;
     text-align: left;
-    margin: 2px;
-
-}
+    }
         body{
     background-color: rgb(230, 230, 230);
     width: 90%;
+    margin: 2px;
 }
         #container{
     width: 90%;
