@@ -1,0 +1,24 @@
+        h2{
+    color: rgb(25, 25, 25);
+    background-color: rgb(250, 250, 250);
+    font-family: sans-serif, Helvetica;
+    width: auto;
+    text-align: left;
+}
+        h3{
+    color: rgb(25, 25, 25);
+    background-color: rgb(250, 250, 250);
+    font-family: sans-serif, Helvetica;
+    width: auto;
+    text-align: left;
+
+}
+        body{
+    background-color: rgb(230, 230, 230);
+}
+        #container{
+    width: 90%;
+    font-family: sans-serif, Helvetica;
+    background-color: rgb(250, 250, 250);
+    text-align: left;
+}
