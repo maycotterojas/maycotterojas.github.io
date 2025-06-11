@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="mr.css">
+    <div id="content">
+    <style>
+      div#content {
+          background-image: url('illit_back.jpg');
+          height: 80px;
+          background-position: center bottom;
+          background-repeat: no repeat;
+          background-color: rgba(255,255,255,0.6);
+          background-blend-mode: lighten;
+      }
+    </style>
+    </div>
+    <title>maycotterojas</title>
+  </head>
+    <body>
+    <div id="container" style="width: 100%;">    
+      <style></style>
+      <h2>maycotterojas</h2>
 
+        <h3>Works</h3>
+
+        </ul>
+        <h4>Other Works</h4>
+          <p>Comic Works</p>
+            <ul>
+              <li><a href="comicpage_1.jpg">Comic Page Selection.1</a></li>
+            </ul>
+            <ul>
+              <li><a href="comicpage_2.jpg">Comic Page Selection.2</a></li>
+            </ul>
+            <ul>
+              <li><a href="personalwork_booklet.pdf">Comic Concept</a></li>
+            </ul>
+          <p>Personal Works</p>
+            <ul>
+              <li><a href="curved_March2023.jpg">Personal Work.1_curved_March2023</a></li>
+            </ul>
+            <ul>
+              <li><a href="personalwork_sketchbook.pdf">Sketchbook</a></li>
+            </ul>
+        <br>
+      </div>
+      <script src="mr.js"></script>
+  </body>
+</html>
