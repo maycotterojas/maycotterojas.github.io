@@ -27,16 +27,10 @@
 
         </ul>
         <h4>Other Works</h4>
-          <p>Comic Works</p>
-            <ul>
-              <li><a href="comicpage_1.jpg">Comic Page Selection.1</a></li>
-            </ul>
-            <ul>
-              <li><a href="comicpage_2.jpg">Comic Page Selection.2</a></li>
-            </ul>
-            <ul>
-              <li><a href="personalwork_booklet.pdf">Comic Concept</a></li>
-            </ul>
+          <h4>Comic Works</h4>
+              <img src="comicpage_1.jpg">
+              <img src="comicpage_2.jpg">
+              <img src="personalwork_booklet.pdf">
           <p>Personal Works</p>
             <ul>
               <li><a href="curved_March2023.jpg">Personal Work.1_curved_March2023</a></li>
