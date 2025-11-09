@@ -34,3 +34,21 @@
         height: 300px;
 }
 
+h2{
+    color: rgb(25, 25, 25);
+    background-color: rgb(250, 250, 250);
+    font-family: sans-serif, Helvetica;
+    text-align: left;
+}
+        h3{
+    color: rgb(25, 25, 25);
+    background-color: rgb(250, 250, 250);
+    font-family: sans-serif, Helvetica;
+    text-align: left;
+    }
+        #container{
+    width: auto;
+    font-family: sans-serif, Helvetica;
+    background-color: rgb(250, 250, 250);
+    text-align: left;
+    }
