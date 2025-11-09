@@ -21,27 +21,7 @@
     </div>
 
     <div id="Comic Work" class="tabcontent">
-      <h3>Comic Work</h3>
-      <p>test</p>
-    </div>
-    <div id="Personal Work" class="tabcontent">
-      <h3>Personal Work</h3>
-      <p>test</p>
-    </div>
-    <title>maycotterojas</title>
-  </head>
-    <body>
-    <div id="container" style="width: 100%;">    
-      <style></style>
-      <h2>maycotterojas</h2>
-        <h3>Artwork Portfolio</h3>
-          <h4>Comic Works</h4>
-              <img src="comicpage_1.jpg">
-              <img src="comicpage_2.jpg">
-              <img src="personalwork_booklet.pdf">
-          <h4>Personal Works</h4>
-             <img src="curved_March2023.jpg">
-             <img src="personalwork_sketchbook.pdf">
+
       </div>
       <script src="mr.js"></script>
   </body>
