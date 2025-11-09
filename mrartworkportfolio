@@ -1,29 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
     <link rel="stylesheet" type="text/css" href="mr.css">
   </head>
   
   <body>
-    <div id="content">
-    <style>
-      div#content {
-          background-image: url('illit_back.jpg');
-          height: 80px;
-          background-position: center bottom;
-          background-repeat: no repeat;
-          background-color: rgba(255,255,255,0.6);
-          background-blend-mode: lighten;
-      }
-    </style>
-    <div class="tab">
-      <button class="tablinks" onclick="openSection(event,'Comic Work')">Comic Work</button>
-       <button class="tablinks" onclick="openSection(event,'Personal Work')">Personal Work</button>
-    </div>
-
-    <div id="Comic Work" class="tabcontent">
+  <div id="container">
 
       </div>
       <script src="mr.js"></script>
