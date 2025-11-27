@@ -13,7 +13,14 @@ document.getElementsByClassName("tablinks");
     tablinks[i].className = tablinks[i].className.replace(" active","");
   }
 
-  document.getElementByID(categoryName).style.display
+  document.getElementById(categoryName).style.display
 = "block";
   evt.currentTarget.className += "active";
 }
+
+//Show a tab by default
+<button class="tablinks" onlinks="openCategory(event,'Drafting')" id="defaultOpen">Drafting</button>
+
+<script>
+  document.getElementById("defaultOpen").click();
+</script>
