@@ -45,22 +45,19 @@
         }
 
         .tab-content {
-            margin-top: 1rem;
             padding-left: 1rem;
+            border-top: none;
+            display: none;
+            border: 1px sold #ccc;
             font-size: 20px;
             font-family: sans-serif;
             font-weight: bold;
-            color: rgb(0, 0, 0);
-        }
+           }
 
         .tabs {
-            border-top: none;
-            background-color: rgb(255, 255, 255);
-            font-size: 25px;
-            color: rgb(0, 0, 0);
-            display: none;
-            margin: 0;
+            background-color: #f1f1f1;
             overflow: hidden;
+            border: 1px sold #ccc;
         }
 
         .tabs span {
@@ -70,13 +67,23 @@
         }
 
         .tabs span:hover {
-            background: rgb(255, 255, 255);
+            background: #ddd;
             cursor: pointer;
-            color: black;
-            outline: none;
             transition: 0.3s;
-            float: left;
         }
+
+        .tab button.active {
+          background-color: #ccc;
+        }
+
+        .tabs button {
+          background-color: inherit;
+          float: left;
+          border: none;
+          outline: none;
+          padding: 14px 16px;
+        }
+          
     </style>
 </head>
 
