@@ -15,10 +15,11 @@
           background-blend-mode: lighten;
       }
     </style>
-      
+    
     </div>
     <title>maycotterojas</title>
     </head>
+  
     <body>
           <style>
         * {
@@ -31,7 +32,7 @@
         }
 
         .container {
-            border: 1px solid grey;
+            border: none;
             margin: 1rem;
         }
 
@@ -53,12 +54,13 @@
         }
 
         .tabs {
-            border-bottom: 1px solid grey;
+            border-top: none;
             background-color: rgb(255, 255, 255);
             font-size: 25px;
             color: rgb(0, 0, 0);
-            display: flex;
+            display: none;
             margin: 0;
+            overflow: hidden;
         }
 
         .tabs span {
@@ -71,6 +73,9 @@
             background: rgb(255, 255, 255);
             cursor: pointer;
             color: black;
+            outline: none;
+            transition: 0.3s;
+            float: left;
         }
     </style>
 </head>
