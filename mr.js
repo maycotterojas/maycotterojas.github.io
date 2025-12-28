@@ -23,5 +23,5 @@
 //Show a tab by default
 //<button class="tablinks" onlinks="openCategory(event,'Drafting')" id="defaultOpen">Drafting</button>
 
-  document.getElementById("defaultOpen").click();
-</script>
+//document.getElementById("defaultOpen").click();
+//</script>
