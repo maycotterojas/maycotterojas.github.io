@@ -9,6 +9,10 @@
         overflow: hidden;
 }
 
+.text-alignment {
+  text-align: left;
+}
+
 .tab button {
         display: block;
         background-color: inherit;
