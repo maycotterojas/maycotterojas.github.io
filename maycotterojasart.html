@@ -129,8 +129,8 @@
           
         <div class="tabs__tab" id="tab_2" data-tab-info>
           <a href="maycotterojasengineering.html"><img src="drafting.jpg" alt="Drafting" style="width:800px;height:400px;text-align:center;"></a>
-
           <a href="maycotterojasengineeringprojects.html"><img src="projects.jpg" alt="Projects" style="width:800px;height:400px;text-align:center;"></a><br><br>
+       </div>   
           
   <div class = "container"> 
           <img src="whathaveyoudonetomefixed.jpg" width="90%" height="auto" text-align="center"><br>
@@ -152,6 +152,22 @@
           <img src="comicpage_2.jpg" width="90%" height="auto" text-align="center"><br><br>
           <img src="curved_March2023.jpg" width="90%" height="auto" text-align="center"><br><br>
   </div>
+          <script type="text/javascript">
+        // function to get each tab details
+        const tabs = document.querySelectorAll('[data-tab-value]')
+        const tabInfos = document.querySelectorAll('[data-tab-info]')
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                const target = document
+                    .querySelector(tab.dataset.tabValue);
+                tabInfos.forEach(tabInfo => {
+                    tabInfo.classList.remove('active')
+                })
+                target.classList.add('active');
+            })
+        })
+    </script> 
   <script src="mr.js"></script>
 </body>
 </html>
