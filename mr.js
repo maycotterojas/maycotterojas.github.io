@@ -25,7 +25,7 @@
 
 //document.getElementById("defaultOpen").click();
   
-$(document).on("click","#tab_1",function(){
+(document).on("click","#tab_1",function(){
    windows.open("index.html","home");
 });
 
