@@ -1,4 +1,4 @@
-//<script>
+<script>
 //function openCategory(evt, categoryName){
 //  var i, tabcontent, tablinks;
   
@@ -24,4 +24,10 @@
 //<button class="tablinks" onlinks="openCategory(event,'Drafting')" id="defaultOpen">Drafting</button>
 
 //document.getElementById("defaultOpen").click();
-//</script>
+  
+$(document).on("click","#tab_1",function(){
+   windows.open("index.html","home");
+});
+</script>
+
+
