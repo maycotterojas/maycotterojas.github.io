@@ -1,4 +1,4 @@
-<script>
+//<script>
 //function openCategory(evt, categoryName){
 //  var i, tabcontent, tablinks;
   
@@ -37,6 +37,6 @@ $(document).on("click","#tab_3",function(){
    windows.open("index.html","art");
 });
 
-</script>
+//</script>
 
 
