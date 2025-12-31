@@ -5,13 +5,119 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="mr.css">
+  <div id="content">
     <style>
+      div#content {
+          background-image: url('illit_back.jpg');
+          height: 70px;
+          background-position: center bottom;
+          background-repeat: no repeat;
+          background-color: rgba(255,255,255,0.6);
+          background-blend-mode: lighten;
+        
         .container {
             text-align: center;
         }
   </style>
+</div>
 </head>
+  <style>
+    body {
+    font-family: Helvetica, Arial, sans-serif;
+    background: rgb(255, 255, 255);
+    margin: 0;
+    text-align: center;
+  }
+
+  .header {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    color: white;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  .content {padding:20px; text-align:left; font-family: Helvetica, Arial, sans-serif;}
+  </style>
+</head>  
 <body>
+  <div class="header">
+    <h1>maycotterojas</h1>
+    <!--<h3>Hello, my name is (Julia) Maycotte-Rojas. I am a first-year Systems Design Engineering at the University of Waterloo.</h3>-->
+  </div>
+  
+  <title>maycotterojas</title>
+
+  <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: white;
+            align-content: center;
+        }
+
+        .container {
+            border: none;
+            margin: 1rem;
+            align-content: center;
+        }
+
+        [data-tab-info] {
+            display: none;
+        }
+
+        .active[data-tab-info] {
+            display: block;
+        }
+
+        .tab-content {
+            padding-left: 1rem;
+            margin-top: 1rem;
+            font-size: 20px;
+            font-family: Helvetica, Arial, sans-serif;
+            
+            color: rgb(0, 0, 0);
+            align-text: center;
+           }
+
+        .tabs {
+            border-bottom: white;
+            background-color: #f1f1f1;
+            font-size: 25px;
+            color: rgb(0, 0, 0);
+            display: flex;
+            margin: 0;
+        }
+
+        .tabs span {
+            background: rgb(255, 255, 255);
+            padding: 10px;
+            border: 1px solid rgb(255, 255, 255);
+        }
+
+        .tabs span:hover {
+            background: #ddd;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+    </style>
+  
+    <body>
+    <!-- Body Container -->
+    <div class="container">
+
+        <!-- Tabs Detail -->
+        <div class="tabs">
+            <span data-tab-value="#tab_1">Home</span>
+            <span data-tab-value="#tab_2">Engineering Portfolio</span>
+            <span data-tab-value="#tab_3">Art Portfolio</span>
+        </div>
+  
   <div class = "container"> 
           <img src="whathaveyoudonetomefixed.jpg" width="90%" height="auto" text-align="center"><br>
           
