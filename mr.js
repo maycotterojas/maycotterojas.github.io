@@ -28,6 +28,15 @@
 $(document).on("click","#tab_1",function(){
    windows.open("index.html","home");
 });
+
+$(document).on("click","#tab_2",function(){
+   windows.open("index.html","engineeringprojects");
+});
+
+$(document).on("click","#tab_3",function(){
+   windows.open("index.html","art");
+});
+
 </script>
 
 
