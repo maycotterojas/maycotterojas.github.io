@@ -47,14 +47,7 @@
         border-top: none;
 }        
 
-.background-image{
-        background-image: url('illit_back.jpg');
-        height: 70px;
-        background-position: center bottom;
-        background-repeat: no repeat;
-        background-color: rgba(255,255,255,0.6);
-        background-blend-mode: lighten;
-}
+
 
 h1{
     color: rgb(25, 25, 25);
