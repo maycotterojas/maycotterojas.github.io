@@ -45,17 +45,7 @@
         height: 300px;
         display: none;
         border-top: none;
-}
-
-.section one {
-        background-image: url('illit_back.jpg');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center bottom;
-        background-color: rgba(255,255,255,0.6);
-        background-blend-mode: lighten;
-}
-        
+}        
 
 h1{
     color: rgb(25, 25, 25);
