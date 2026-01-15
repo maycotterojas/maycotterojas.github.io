@@ -1,4 +1,4 @@
-* {box-sizing: border-box}
+c* {box-sizing: border-box}
 
 .tab {
         float: right;
@@ -47,7 +47,7 @@
         border-top: none;
 }        
 
-.one{
+.section.one{
     background-image: url('illit_fix.jpg');
     background-repeat: no-repeat;
     background-position: center; 
