@@ -10,7 +10,8 @@ c* {box-sizing: border-box}
 }
 
 .text-alignment {
-  text-align: left;
+        text-align: left;
+        border-left: 5px solid #ccc;
 }
 
 .tab button {
@@ -52,8 +53,7 @@ c* {box-sizing: border-box}
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
-background-size: cover;   
-
+    background-size: cover;   
 }
 
 h1{
