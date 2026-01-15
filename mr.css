@@ -47,7 +47,15 @@
         border-top: none;
 }        
 
+.one{
+    background-image: url('illit_back.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+    height: 317px;
+    width: 969px;
 
+}
 
 h1{
     color: rgb(25, 25, 25);
