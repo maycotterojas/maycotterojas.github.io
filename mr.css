@@ -47,7 +47,7 @@ c* {box-sizing: border-box}
         border-top: none;
 }        
 
-.section.one{
+.one{
     background-image: url('illit_fix.jpg');
     background-repeat: no-repeat;
     background-position: center; 
