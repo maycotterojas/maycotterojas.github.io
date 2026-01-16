@@ -1,7 +1,7 @@
 c* {box-sizing: border-box}
 
 .tab {
-        float: center;
+        float: right;
         border: 1px solid #ccc;
         background-color: #f1f1f1;
         width: 30%;
@@ -21,12 +21,14 @@ c* {box-sizing: border-box}
         width: 100%;
         border: none;
         outline: none;
-        text-align: center;
+        text-align: right;
         cursor: pointer;
         transition: 0.3s;
-        float: center;
+        float: left;
         cursor: pointer;
 }
+
+
 
 .tab button:hover {
         background-color: #ddd;
@@ -37,7 +39,7 @@ c* {box-sizing: border-box}
 }
 
 .tabcontent {
-        float: center;
+        float: right;
         padding: 0px 12px;
         border: none;
         width: 70%;
@@ -53,8 +55,8 @@ c* {box-sizing: border-box}
     background-position: center; 
     position: relative;
     background-size: contain;
-            background-color: rgba(255,255,255,0.5);
-            background-blend-mode: lighten;
+    background-color: rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
     mask-image: linear-gradient(to bottom, black 0, transparent 100%);
 }
 
