@@ -21,7 +21,7 @@ c* {box-sizing: border-box}
         width: 100%;
         border: none;
         outline: none;
-        text-align: right;
+        text-align: center;
         cursor: pointer;
         transition: 0.3s;
         float: left;
