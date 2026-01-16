@@ -50,18 +50,7 @@ c* {box-sizing: border-box}
 }        
 
 .one{
-    background-image: url('illit_fix_top.jpg');
-    background-repeat: no-repeat;
-    background-position: center; 
-    position: relative;
-    background-size: contain;
-    background-color: rgba(255,255,255,0.5);
-    background-blend-mode: lighten;
-    mask-image: linear-gradient(to bottom, black 0, transparent 100%);
-}
-
-.void_2{
-    background-image: url('illit_fix_bottom_.jpg');
+    background-image: url('illit_fix.jpg');
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
