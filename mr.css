@@ -52,7 +52,7 @@ c* {box-sizing: border-box}
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
-    background-size: cover;   
+    background-size: contain;   
 }
 
 h1{
