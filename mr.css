@@ -75,8 +75,3 @@ c* {box-sizing: border-box}
     background-size: contain;
     mask-image: linear-gradient(to bottom, black 0, transparent 100%);
 }
-
-.container{
-    width: 70%;
-    height: 70%;
-}
