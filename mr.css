@@ -57,13 +57,13 @@ c* {box-sizing: border-box}
     height: 100px;
 }
 
-#content {
+#container {
     /* Add padding to the top of the main content equal to the header's height */
     padding-top: 100px; 
 }
 
 #nav {
-    padding: 100px;
+    padding: 0px;
     background-color: #eee;
 }
 
