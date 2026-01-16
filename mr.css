@@ -53,8 +53,6 @@ c* {box-sizing: border-box}
     background-position: center; 
     position: relative;
     background-size: contain;
-            padding-left: 10px;
-            padding-right: 10px;
 }
 
 h1{
