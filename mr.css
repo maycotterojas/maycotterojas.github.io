@@ -1,7 +1,7 @@
 c* {box-sizing: border-box}
 
 .tab {
-        float: right;
+        float: center;
         border: 1px solid #ccc;
         background-color: #f1f1f1;
         width: 30%;
