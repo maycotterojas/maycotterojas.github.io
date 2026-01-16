@@ -55,3 +55,10 @@ c* {box-sizing: border-box}
     background-size: contain;
     mask-image: linear-gradient(to bottom, black 0, transparent 100%);
 }
+
+h1{
+    color: rgb(25, 25, 25);
+    font-family: sans-serif, Helvetica;
+    text-align: left;
+}
+        
