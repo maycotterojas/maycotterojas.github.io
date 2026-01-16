@@ -53,7 +53,7 @@ c* {box-sizing: border-box}
     background-position: center; 
     position: relative;
     background-size: contain;
-        mask-image: linear-gradient(to bottom, black 0, transparent 100%);
+    mask-image: linear-gradient(to bottom, black 0, transparent 100%);
 }
 
 h1{
@@ -62,27 +62,7 @@ h1{
     text-align: left;
 }
 
-h2{
-    color: rgb(25, 25, 25);
-    font-family: sans-serif, Helvetica;
-    text-align: left;
-}
-
-h3{
-    color: rgb(25, 25, 25);
-    font-family: sans-serif, Helvetica;
-    text-align: center;
-}
-
-h5{
-    color: rgb(25, 25, 25);
-    font-family: sans-serif, Helvetica;
-    text-align: center;
-}
-
 .container{
-    width: 70%;
+    width: 60%;
     height: auto;
-    font-family: sans-serif, Helvetica;
-    text-align: center;
 }
