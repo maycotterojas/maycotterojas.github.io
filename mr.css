@@ -47,18 +47,20 @@ c* {box-sizing: border-box}
         border-top: none;
 }        
 
-.header {
+#site-header {
     position: fixed;
-    z-index: 300px;
-    left:0;
-    right:0;
-    top:0; 
-    margin:0;
-    color: rgb(25, 25, 25);
-    font-family: sans-serif, Helvetica;
-    text-align: left;
+    top: 0;
+    width: 100%; /* Ensures the header spans the full width */
+    background-color: #fff; /* Add a background color so content doesn't show through */
+    z-index: 1000; /* Ensures the header is above other content */
+    /* Define height for the content padding calculation, e.g., 100px */
+    height: 100px;
 }
 
+#content {
+    /* Add padding to the top of the main content equal to the header's height */
+    padding-top: 100px; 
+}
 
 .one{
     background-image: url('illit_fix.jpg');
