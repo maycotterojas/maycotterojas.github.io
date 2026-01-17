@@ -40,7 +40,7 @@ c* {box-sizing: border-box}
         float: center;
         padding: 0px 12px;
         border: none;
-        width: 70%;
+        width: 100%;
         border-left: 1px solid #ccc;
         height: 300px;
         display: none;
