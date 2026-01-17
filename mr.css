@@ -124,16 +124,6 @@ h1{
     mask-image: linear-gradient(to bottom, black 0, transparent 100%);
 }
 
-#engineeringportfolio.section.two{
-  height: 700px;
-  margin-top: 200px;
-}
-
-#artportfolio.section.five{
-  height: 700px;
-  margin-top: 200px;
-}
-
 h1{
     color: rgb(08, 08, 08);
     font-family: sans-serif, Helvetica;
