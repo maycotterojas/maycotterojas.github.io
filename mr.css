@@ -23,7 +23,7 @@ c* {box-sizing: border-box}
         display: block;
         background-color: inherit;
         color: black;
-        padding: 22px 16px;
+        padding: 0px 0px;
         width: 100%;
         border: none;
         outline: none;
@@ -55,21 +55,6 @@ c* {box-sizing: border-box}
 
 .text-alignment {
         text-align: left;
-}
-
-.tab button {
-        display: block;
-        background-color: inherit;
-        color: black;
-        padding: 0px 0px;
-        width: 100%;
-        border: none;
-        outline: none;
-        text-align: left;
-        cursor: pointer;
-        transition: 0.3s;
-        float: left;
-        cursor: pointer;
 }
 
 .tab button:hover {
