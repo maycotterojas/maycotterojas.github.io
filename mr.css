@@ -34,6 +34,8 @@ c* {box-sizing: border-box}
         cursor: pointer;
 }
 
+
+
 .tab button:hover {
         background-color: #ddd;
 }
@@ -51,18 +53,7 @@ c* {box-sizing: border-box}
         height: 300px;
         display: none;
         border-top: none;
-}     
-
-        .tabcontent {
-        float: center;
-        padding: 0px 12px;
-        border: none;
-        width: 100%;
-        border-left: 1px solid #ccc;
-        height: 300px;
-        display: none;
-        border-top: none;
-}
+}        
 
 .one{
     background-image: url('illit_fix.jpg');
@@ -73,14 +64,15 @@ c* {box-sizing: border-box}
     background-color: rgba(255,255,255,0.5);
     background-blend-mode: lighten;
     mask-image: linear-gradient(to bottom, black 0, transparent 100%);
-    margin-top: 7px;
 }
 
 h1{
     color: rgb(08, 08, 08);
     font-family: sans-serif, Helvetica;
     text-align: left;
-    margin-left: 12px;
+}
+        height: 300px;
+        overflow: hidden;
 }
 
 .text-alignment {
@@ -110,4 +102,32 @@ h1{
         background-color: #ccc;
 }
 
+.tabcontent {
+        float: center;
+        padding: 0px 12px;
+        border: none;
+        width: 100%;
+        border-left: 1px solid #ccc;
+        height: 300px;
+        display: none;
+        border-top: none;
+}        
+
+.one{
+    background-image: url('illit_fix.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+    background-size: contain;
+    background-color: rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+    mask-image: linear-gradient(to bottom, black 0, transparent 100%);
+}
+
+h1{
+    color: rgb(08, 08, 08);
+    font-family: sans-serif, Helvetica;
+    text-align: left;
+    margin-left: 12px;
+}
         
