@@ -44,7 +44,7 @@ c* {box-sizing: border-box}
 
 .tabcontent {
         float: center;
-        padding: 0px 12px;
+        padding: 0px 0px;
         border: none;
         width: 70%;
         border-left: 1px solid #ccc;
