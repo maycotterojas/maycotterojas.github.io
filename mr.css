@@ -129,7 +129,7 @@ c* {box-sizing: border-box}
 
 .nav {
         position: fixed;
-            top: 80px;
+            top: 0px;
             width: 100%;
             display: flex;
             background-color: rgb(255, 255, 255);
@@ -148,7 +148,7 @@ c* {box-sizing: border-box}
             border: none;
             text-decoration: none;
             display: inline-block;
-            margin: 0 10px;
+            margin: 0 0px;
             text-align: left;
 }
 
