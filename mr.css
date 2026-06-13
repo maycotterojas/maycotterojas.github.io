@@ -14,6 +14,7 @@ c* {box-sizing: border-box}
 }
 
 .tab button {
+        position: fix;
         display: block;
         background-color: inherit;
         color: black;
@@ -48,6 +49,7 @@ c* {box-sizing: border-box}
 }
 
 .tabcontent {
+        position: fix;
         float: center;
         padding: 0px 12px;
         border: none;
@@ -87,43 +89,43 @@ c* {box-sizing: border-box}
 }
 .three_2 {
             background-color: rgb(255, 255, 255);
-        }
-        .five_ {
+}
+.five_ {
             background-color: rgb(255, 255, 255);
-        }
-        .four {
+}
+.four {
             background-color: rgb(255, 255, 255);
-        }
-        .void {
+}
+.void {
             background-color: rgb(255, 255, 255);
-        }
-        .five {
+}
+.five {
             background-color: rgb(255, 255, 255);
-        }
-        .six {
+}
+.six {
             background-color: rgb(255, 255, 255);
-        }
-        .six_ {
+}
+.six_ {
             background-color: rgb(255, 255, 255);
-        }
-        .seven {
+}
+.seven {
             background-color: rgb(255, 255, 255);
-        }
-        .eight {
+}
+.eight {
             background-color: rgb(255, 255, 255);
-        }
-        .nine {
+}
+.nine {
             background-color: rgb(255, 255, 255);
-        }
-        .ten {
+}
+.ten {
             background-color: rgb(255, 255, 255);
-        }
-        .void_2{
+}
+.void_2{
             background-color: rgb(255, 255, 255);
-        }
+}
 
-        .nav {
-            position: fixed;
+.nav {
+        position: fixed;
             top: 80px;
             width: 100%;
             display: flex;
@@ -132,7 +134,7 @@ c* {box-sizing: border-box}
             padding: 0px 0;
             z-index: 100;
         }
-        .btn {
+.btn {
             color: rgb(08, 08, 08);
             background-color: rgb(255, 255, 255);
             height: 40px;
