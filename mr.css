@@ -32,7 +32,7 @@ c* {box-sizing: border-box}
     background-image: url('illit_fix.jpg');
     background-repeat: no-repeat;
     background-position: center; 
-    position: relative;
+    position: fixed;
     background-size: contain;
     background-color: rgba(255,255,255,0.5);
     background-blend-mode: lighten;
