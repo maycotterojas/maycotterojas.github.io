@@ -169,6 +169,7 @@ c* {box-sizing: border-box}
 
 h1{
         position: fixed;
+        padding-bottom: 20px;
     color: rgb(08, 08, 08);
     font-family: sans-serif, Helvetica;
     text-align: left;
