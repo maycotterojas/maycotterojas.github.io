@@ -67,7 +67,6 @@ c* {box-sizing: border-box}
             width: 97%;
             height: 97vh;
             /* Full viewport height */
-            color: rgb(08, 08, 08);
             font-size: 14px;
             display: flex;
             justify-content: center;
