@@ -132,8 +132,7 @@ c* {box-sizing: border-box}
             padding: 0px 0;
             z-index: 100;
         }
-
-.btn {
+        .btn {
             color: rgb(08, 08, 08);
             background-color: rgb(255, 255, 255);
             height: 40px;
@@ -145,6 +144,7 @@ c* {box-sizing: border-box}
             margin: 0 10px;
             text-align: left;
 }
+
 
 h1{
     color: rgb(08, 08, 08);
