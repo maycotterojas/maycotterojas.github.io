@@ -2,7 +2,7 @@ c* {box-sizing: border-box}
 
 .tab {
         float: center;
-        border: 1px solid #ccc;
+        border: 1px solid rgb(255, 255, 255);
         background-color: rgb(255, 255, 255);
         width: 30%;
         height: 300px;
