@@ -1,6 +1,7 @@
 c* {box-sizing: border-box}
 
 .tab {
+        position: fixed;
         float: center;
         border: 1px solid rgb(255, 255, 255);
         background-color: rgb(255, 255, 255);
@@ -14,7 +15,7 @@ c* {box-sizing: border-box}
 }
 
 .tab button {
-        position: fix;
+        position: fixed;
         display: block;
         background-color: inherit;
         color: black;
@@ -134,6 +135,7 @@ c* {box-sizing: border-box}
             padding: 0px 0;
             z-index: 100;
         }
+
 .btn {
             color: rgb(08, 08, 08);
             background-color: rgb(255, 255, 255);
@@ -146,7 +148,6 @@ c* {box-sizing: border-box}
             margin: 0 10px;
             text-align: left;
 }
-
 
 h1{
     color: rgb(08, 08, 08);
