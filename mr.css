@@ -8,7 +8,15 @@ h1{
         margin-left: 12px;
 }
 
-.break{
+.logo{
+        padding-bottom: 20px;
+        color: rgb(08, 08, 08);
+        font-family: sans-serif, Helvetica;
+        text-align: left;
+        margin-left: 12px;
+}
+        
+.sections{
         padding-bottom: 20px;
         color: rgb(08, 08, 08);
         font-family: sans-serif, Helvetica;
