@@ -34,39 +34,17 @@ h1{
         background-color: rgb(255, 255, 255);
         height: 40px;
         width: 90px;
-        padding: 0 20px;
+        padding: 0 0px;
         border: none;
         text-decoration: none;
         display: inline-block;
-        margin: 0 20px;
+        margin: 0 0px;
         text-align: left;
 }
 
 .text-alignment {
         text-align: left;
 }
-
-.tab button:hover {
-        position: fixed;
-        background-color: rgb(255, 255, 255);
-}
-
-.tab button.active {
-        position: fixed;
-        background-color: rgb(255, 255, 255);
-}
-
-.tabcontent {
-        position: fixed;
-        float: center;
-        padding: 0px 0px;
-        border: none;
-        width: 70%;
-        border-left: 1px solid rgb(255, 255, 255);
-        height: 300px;
-        display: none;
-        border-top: none;
-}        
 
 .section {
         width: 100%;
