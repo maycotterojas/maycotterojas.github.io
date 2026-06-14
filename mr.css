@@ -1,6 +1,7 @@
 c* {box-sizing: border-box}
 
 h1{
+        width: 100%;
         padding-bottom: 0px;
         color: rgb(08, 08, 08);
         font-family: sans-serif, Helvetica;
