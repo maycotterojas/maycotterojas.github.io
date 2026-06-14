@@ -35,8 +35,9 @@ h1{
 }
 
 .one {
-        padding-top: 50px;
+        padding-top: 130px;
         text-align: left;
+        padding-left: 10px;
         background-color: rgb(255, 255, 255);
 }
 .two {
