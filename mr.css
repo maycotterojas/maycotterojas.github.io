@@ -34,17 +34,17 @@ h1{
 }
 
 .btn {
-            position: fixed;
-                color: rgb(08, 08, 08);
-            background-color: rgb(255, 255, 255);
-            height: 40px;
-            width: 90px;
-            padding: 2px;
-            border: none;
-            text-decoration: none;
-            display: inline-block;
-            margin: 0 0px;
-            text-align: left;
+        position: fixed;
+        color: rgb(08, 08, 08);
+        background-color: rgb(255, 255, 255);
+        height: 40px;
+        width: 90px;
+        padding: 0px;
+        border: none;
+        text-decoration: none;
+        display: inline-block;
+        margin: 0 0px;
+        text-align: left;
 }
 
 .tab {
@@ -77,17 +77,6 @@ h1{
         cursor: pointer;
 }
 
-.one{
-    background-image: url('illit_fix.jpg');
-    background-repeat: no-repeat;
-    background-position: center; 
-    position: fixed;
-    background-size: contain;
-    background-color: rgba(255,255,255,0.5);
-    background-blend-mode: lighten;
-    mask-image: linear-gradient(to bottom, black 0, transparent 100%);
-}
-
 .tab button:hover {
         position: fixed;
         background-color: rgb(255, 255, 255);
@@ -110,20 +99,20 @@ h1{
         border-top: none;
 }        
 
-        .section {
-            width: 97%;
-            height: 97vh;
-            /* Full viewport height */
-            font-size: 14px;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            /* Align text to the top */
-            text-align: center;
-            padding-top: 80px;
-            /* Adds space to avoid being hidden behind fixed nav */
-            margin-left: 12px;
-        }
+.section {
+        width: 97%;
+        height: 97vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        padding-top: 0px;
+        /* Adds space to avoid being hidden behind fixed nav */
+        margin-left: 0px;
+}
 
 .one {
             background-color: rgb(255, 255, 255);
