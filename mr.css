@@ -1,5 +1,13 @@
 c* {box-sizing: border-box}
 
+h1{
+        padding-bottom: 20px;
+    color: rgb(08, 08, 08);
+    font-family: sans-serif, Helvetica;
+    text-align: left;
+    margin-left: 12px;
+}
+
 .tab {
         position: fixed;
         float: center;
@@ -167,10 +175,4 @@ c* {box-sizing: border-box}
             text-align: left;
 }
 
-h1{
-        padding-bottom: 20px;
-    color: rgb(08, 08, 08);
-    font-family: sans-serif, Helvetica;
-    text-align: left;
-    margin-left: 12px;
-}
+
