@@ -36,6 +36,7 @@ h1{
 }
 
 .btn {
+        width: 100%;
         position: fixed;
         color: rgb(08, 08, 08);
         background-color: rgb(255, 255, 255);
