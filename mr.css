@@ -8,6 +8,31 @@ h1{
     margin-left: 12px;
 }
 
+.nav {
+        position: fixed;
+            top: 0px;
+            width: 100%;
+            display: flex;
+            background-color: rgb(255, 255, 255);
+            justify-content: left;
+            padding: 0px 0;
+            z-index: 100;
+        }
+
+.btn {
+            position: fixed;
+                color: rgb(08, 08, 08);
+            background-color: rgb(255, 255, 255);
+            height: 40px;
+            width: 90px;
+            padding: 2px;
+            border: none;
+            text-decoration: none;
+            display: inline-block;
+            margin: 0 0px;
+            text-align: left;
+}
+
 .tab {
         position: fixed;
         float: center;
@@ -149,30 +174,3 @@ h1{
 .void_2{
             background-color: rgb(255, 255, 255);
 }
-
-.nav {
-        position: fixed;
-            top: 0px;
-            width: 100%;
-            display: flex;
-            background-color: rgb(255, 255, 255);
-            justify-content: left;
-            padding: 0px 0;
-            z-index: 100;
-        }
-
-.btn {
-            position: fixed;
-                color: rgb(08, 08, 08);
-            background-color: rgb(255, 255, 255);
-            height: 40px;
-            width: 90px;
-            padding: 2px;
-            border: none;
-            text-decoration: none;
-            display: inline-block;
-            margin: 0 0px;
-            text-align: left;
-}
-
-
