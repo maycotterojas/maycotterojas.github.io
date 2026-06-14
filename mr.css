@@ -46,22 +46,6 @@ h1{
         text-align: left;
 }
 
-.tab button {
-        position: fixed;
-        display: block;
-        background-color: inherit;
-        color: black;
-        padding: 0px 0px;
-        width: 100%;
-        border: none;
-        outline: none;
-        text-align: left;
-        cursor: pointer;
-        transition: 0.3s;
-        float: left;
-        cursor: pointer;
-}
-
 .tab button:hover {
         position: fixed;
         background-color: rgb(255, 255, 255);
