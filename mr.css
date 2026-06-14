@@ -1,27 +1,27 @@
 c* {box-sizing: border-box}
 
 h1{
-        padding-bottom: 20px;
+        padding-bottom: 0px;
         color: rgb(08, 08, 08);
         font-family: sans-serif, Helvetica;
         text-align: left;
-        margin-left: 12px;
+        margin-left: 0px;
 }
 
 .logo{
-        padding-bottom: 20px;
+        padding-bottom: 00px;
         color: rgb(08, 08, 08);
         font-family: sans-serif, Helvetica;
         text-align: left;
-        margin-left: 12px;
+        margin-left: 0px;
 }
         
 .sections{
-        padding-bottom: 20px;
+        padding-bottom: 0px;
         color: rgb(08, 08, 08);
         font-family: sans-serif, Helvetica;
         text-align: left;
-        margin-left: 12px;
+        margin-left: 0px;
 }
 
 .nav {
@@ -31,8 +31,6 @@ h1{
         display: flex;
         background-color: rgb(255, 255, 255);
         justify-content: left;
-        padding: 0px 0;
-        z-index: 100;
 }
 
 .btn {
