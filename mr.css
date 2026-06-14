@@ -55,7 +55,6 @@ h1{
         text-align: center;
         /* Adds space to avoid being hidden behind fixed nav */
         padding-top: 130px;
-        padding-bottom: 130px;
         background-color: rgb(255, 255, 255);
 }
 
@@ -71,6 +70,5 @@ h1{
         text-align: center;
         /* Adds space to avoid being hidden behind fixed nav */
         padding-top: 130px;
-        padding-bottom: 130px;
         background-color: rgb(255, 255, 255);
 }
