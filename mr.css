@@ -23,7 +23,7 @@ ul li a{
         text-decoration: none;
 }
 
-ul li a:hove{
+ul li a:hover{
         background-color: rgb(255, 255, 255);
 }
 
