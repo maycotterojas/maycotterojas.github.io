@@ -17,15 +17,6 @@ h1{
         text-align: left;
         margin-left: 0px;
 }
-        
-.sections{
-        width: 100%;
-        padding-bottom: 0px;
-        color: rgb(08, 08, 08);
-        font-family: sans-serif, Helvetica;
-        text-align: left;
-        margin-left: 0px;
-}
 
 .nav {
         position: fixed;
