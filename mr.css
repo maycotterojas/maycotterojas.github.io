@@ -7,6 +7,7 @@ c* {box-sizing: border-box}
         display: flex;
         background-color: rgb(255, 255, 255);
         justify-content: left;
+        margin-bottom: 30px;
 }
 
 h1{
