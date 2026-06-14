@@ -1,36 +1,12 @@
 c* {box-sizing: border-box}
 
-.logo{
-        width: 100%;
-        padding-bottom: 0px;
-        color: rgb(08, 08, 08);
-        font-family: sans-serif, Helvetica;
-        text-align: left;
-        margin-left: 0px;
-}
-
 h1{
         width: 100%;
-        padding-bottom: 0px;
+        padding-left: 20px;
         color: rgb(08, 08, 08);
         font-family: sans-serif, Helvetica;
         text-align: left;
         margin-left: 0px;
-}
-
-.btn {
-        width: 100%;
-        position: fixed;
-        color: rgb(08, 08, 08);
-        background-color: rgb(255, 255, 255);
-        height: 40px;
-        width: 90px;
-        padding: 0 0px;
-        border: none;
-        text-decoration: none;
-        display: inline-block;
-        margin: 0 0px;
-        text-align: left;
 }
 
 .text-alignment {
