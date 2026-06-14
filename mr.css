@@ -91,6 +91,85 @@ h1{
         background-color: rgb(255, 255, 255);
 }
 
+.three {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.three_1 {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.three_1_ {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.three_1_ {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.three_2 {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
 
 .five {
         width: 100%;
@@ -104,6 +183,134 @@ h1{
         text-align: center;
         /* Adds space to avoid being hidden behind fixed nav */
         padding-top: 130px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.four {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.five_ {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.six {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.six_ {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.seven {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.eight {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.niine {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(255, 255, 255);
+}
+
+.ten {
+        width: 100%;
+        height: 100vh;
+        /* Full viewport height */
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        padding-top: 10px;
         padding-bottom: 10px;
         background-color: rgb(255, 255, 255);
 }
