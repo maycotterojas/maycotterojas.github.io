@@ -25,3 +25,16 @@ h1{
         text-align: left;
         -webkit-background-clip: text;
 }
+
+.two {
+        max-width: 100%;
+        height: auto;
+        /* Full viewport height */
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        /* Align text to the top */
+        text-align: center;
+        /* Adds space to avoid being hidden behind fixed nav */
+        background-color: rgb(255, 255, 255);
+}
