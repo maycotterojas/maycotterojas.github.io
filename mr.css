@@ -23,6 +23,8 @@ h1{
         background-clip: text;
         color: transparent;
         text-align: left;
+        padding-top: 130px;
+        padding-bottom: 10px;
         -webkit-background-clip: text;
 }
 
