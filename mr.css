@@ -27,8 +27,8 @@ h1{
 }
 
 .two {
-        max-width: 100%;
-        height: auto;
+        width: 100vw;
+        height: 100vh;
         /* Full viewport height */
         display: flex;
         justify-content: center;
