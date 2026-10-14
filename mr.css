@@ -35,7 +35,5 @@ h1{
         align-items: flex-start;
         /* Align text to the top */
         text-align: center;
-        /* Adds space to avoid being hidden behind fixed nav */
-        margin: 10px;
         background-color: rgb(255, 255, 255);
 }
