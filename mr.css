@@ -36,5 +36,6 @@ h1{
         /* Align text to the top */
         text-align: center;
         /* Adds space to avoid being hidden behind fixed nav */
+        margin: 10px;
         background-color: rgb(255, 255, 255);
 }
